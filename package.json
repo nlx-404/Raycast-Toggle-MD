@@ -3,7 +3,7 @@
   "name": "toggle-menu-bar-and-dock",
   "title": "Toggle Menu Bar and Dock",
   "description": "This extension toggles the menu bar and dock on and off. It's like full screen mode but without going into full screen.",
-  "icon": "extension-icon.png",
+  "icon": "extension_icon.png",
   "author": "nlx-404",
   "categories": [
     "Productivity"
