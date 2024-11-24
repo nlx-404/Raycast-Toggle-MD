@@ -1,6 +1,6 @@
 # Toggle Menu bar and Dock
 
-This extension toggles the menu bar and dock on and off. It's like full screen mode but without going into full screen.
+This extension toggles both the menu bar and dock on and off. It's like full screen mode but without going into full screen.
 
 # Command
 The command to toggle on and off is  ``` Toggle Md ``` <br>
