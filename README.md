@@ -7,7 +7,8 @@ The command to toggle on and off is  ``` Toggle MD ``` <br>
 (M)enu and (Dock)
 
 # Demo
-Toggled On
+## Toggled On
 ![Desktop with command toggled on](assets/toggle-md-on.jpg)
 
+## Toggled Off
 ![Desktop with command toggled off](assets/toggle-md-off.jpg)
